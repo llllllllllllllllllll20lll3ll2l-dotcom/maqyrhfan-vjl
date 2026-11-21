@@ -1,0 +1,14 @@
+{
+	"entity.vtorzheniye.guest": "Гость",
+	"subtitles.vtorzheniye.knock": "Стук в дверь",
+	"subtitles.vtorzheniye.whisper": "Шёпот",
+	"subtitles.vtorzheniye.breath": "Влажное дыхание",
+	"subtitles.vtorzheniye.scrape": "Скрежет по стене",
+	"subtitles.vtorzheniye.heartbeat": "Стук сердца",
+	"subtitles.vtorzheniye.scream": "Крик",
+	"subtitles.vtorzheniye.ritual_knock": "Размеренный стук",
+	"subtitles.vtorzheniye.pressure": "Гул",
+	"subtitles.vtorzheniye.door_burst": "Дверь не выдержала",
+	"vtorzheniye.message.observed": "Оно смотрит в ответ.",
+	"vtorzheniye.message.flesh": "Кожа чешется изнутри."
+}

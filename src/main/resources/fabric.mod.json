@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "vtorzheniye",
+	"version": "${version}",
+	"name": "Вторжение",
+	"description": "Телесный хоррор для обычного мира: гниль, Гость, ритуалы и тишина, которая смотрит в ответ.",
+	"authors": [
+		"Plokhot"
+	],
+	"contact": {},
+	"license": "CC0-1.0",
+	"icon": "assets/vtorzheniye/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"vl.Vtorzheniye"
+		],
+		"client": [
+			"vl.client.VtorzheniyeClient"
+		]
+	},
+	"mixins": [
+		"vtorzheniye.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
