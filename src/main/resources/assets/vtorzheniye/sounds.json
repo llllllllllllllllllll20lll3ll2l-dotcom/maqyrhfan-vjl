@@ -1,0 +1,68 @@
+{
+	"knock": {
+		"subtitle": "subtitles.vtorzheniye.knock",
+		"sounds": [
+			"vtorzheniye:knock",
+			"vtorzheniye:knock2",
+			"vtorzheniye:knock3"
+		]
+	},
+	"whisper": {
+		"subtitle": "subtitles.vtorzheniye.whisper",
+		"sounds": [
+			{ "name": "vtorzheniye:whisper", "volume": 0.85, "pitch": 1.0 },
+			{ "name": "vtorzheniye:whisper2", "volume": 0.8, "pitch": 1.05 },
+			{ "name": "vtorzheniye:whisper3", "volume": 0.9, "pitch": 0.95 }
+		]
+	},
+	"breath": {
+		"subtitle": "subtitles.vtorzheniye.breath",
+		"sounds": [
+			{ "name": "vtorzheniye:breath", "volume": 0.9, "pitch": 1.0 },
+			{ "name": "vtorzheniye:breath2", "volume": 0.85, "pitch": 1.0 },
+			{ "name": "vtorzheniye:breath3", "volume": 0.9, "pitch": 1.0 }
+		]
+	},
+	"scrape": {
+		"subtitle": "subtitles.vtorzheniye.scrape",
+		"sounds": [
+			"vtorzheniye:scrape",
+			"vtorzheniye:scrape2",
+			"vtorzheniye:scrape3"
+		]
+	},
+	"heartbeat": {
+		"subtitle": "subtitles.vtorzheniye.heartbeat",
+		"sounds": [
+			"vtorzheniye:heartbeat",
+			"vtorzheniye:heartbeat2"
+		]
+	},
+	"scream": {
+		"subtitle": "subtitles.vtorzheniye.scream",
+		"sounds": [
+			"vtorzheniye:scream",
+			"vtorzheniye:scream2",
+			"vtorzheniye:scream3"
+		]
+	},
+	"ritual_knock": {
+		"subtitle": "subtitles.vtorzheniye.ritual_knock",
+		"sounds": [
+			"vtorzheniye:ritual_knock"
+		]
+	},
+	"pressure": {
+		"subtitle": "subtitles.vtorzheniye.pressure",
+		"sounds": [
+			{ "name": "vtorzheniye:pressure", "volume": 0.7, "pitch": 1.0 },
+			{ "name": "vtorzheniye:pressure2", "volume": 0.7, "pitch": 0.82 }
+		]
+	},
+	"door_burst": {
+		"subtitle": "subtitles.vtorzheniye.door_burst",
+		"sounds": [
+			"vtorzheniye:door_burst"
+		]
+	}
+}
